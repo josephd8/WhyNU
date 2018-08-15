@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.httr-oauth
+access_secret
+access_token
+consumer_key
+consumer_secret
+twitter_people.xlsx
+WhyNU.Rproj
